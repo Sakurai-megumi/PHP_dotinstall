@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"Novel.preview.linelength": 42,
+		"Novel.preview.linesperpage": 34,
+		"Novel.preview.fontsize": "10pt",
+		"editor.fontFamily": "'Source Han Code JP'",
+		"editor.wordWrap": "wordWrapColumn",
+		"editor.wordWrapColumn": 40,
+		"search.useIgnoreFiles": false,
+		"files.eol": "\n",
+		"editor.renderWhitespace": "all",
+		"html.autoClosingTags": false,
+		"javascript.autoClosingTags": false,
+		"html.format.preserveNewLines": false,
+		"html.format.extraLiners": "",
+		"editor.hover.delay": 3000
+	}
+}
